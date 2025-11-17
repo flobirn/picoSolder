@@ -1,0 +1,7 @@
+<project name="picoSolder">
+	<targets>
+		<target name="pico">
+			<display width="320" height="240" />
+		</target>
+	</targets>
+</project>
